@@ -55,3 +55,14 @@ console.log(sum()); // prints 6
 ```
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/passArguments.js)
+
+- Swapping Values using the Destructuring Assignment
+
+```
+let a = 3;
+let b = 6;
+console.log(a); //6
+console.log(b); //3
+```
+
+###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/swapValues.js)
