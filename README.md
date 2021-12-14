@@ -109,3 +109,14 @@ console.log(b); //3
   ```
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/cityFacts.js)
+
+- Create a function that takes infinite count of elements, operator and prints their sum. If there's no operator, then default should be +
+
+```
+printSum("*", 1, 2, 3); // 9
+printSum(1, 2, 3, 4, 5); // 15
+printSum("-", 1, 2, 3, 6, 7); // -17
+printSum("**", 2, 3, 2); // 64
+```
+
+###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/sumPrint.js)
