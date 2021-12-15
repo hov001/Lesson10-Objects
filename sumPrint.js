@@ -8,10 +8,8 @@ printSum("**", 2, 3, 2); // 64 */
 
 function sumPrint(operator, ...args) {
   let result;
-  if (!operator) {
-    result = args.reduce((sum, current) => sum + current);
-    return result;
-  }
+  result = args.reduce((sum, current) => sum + current);
+  return result;
 
   if (operator === '*') {
     result = args.reduce((sum, current) => sum * current);
@@ -30,4 +28,4 @@ function sumPrint(operator, ...args) {
 
   return result;
 }
-console.log(sumPrint('-', 1, 2, 3, 6, 7));
+console.log(sumPrint(1, 2, 3, 6, 7));
