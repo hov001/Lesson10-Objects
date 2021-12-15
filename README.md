@@ -144,3 +144,14 @@ printSum("**", 2, 3, 2); // 64
 - Write `object.keys`, `object.values` and `object.entries` methods using `for..in`
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/getTheKey.js)
+
+---
+
+- Lowercase and Uppercase
+  Write a function that creates an object with each (key, value) pair being the (lower case, upper case) versions of a letter, respectively.
+
+```
+mapping(["p", "s"]) ➞ { "p": "P", "s": "S" }
+mapping(["a", "b", "c"]) ➞ { "a": "A", "b": "B", "c": "C" }
+mapping(["a", "v", "y", "z"]) ➞ { "a": "A", "v": "V", "y": "Y", "z": "Z" }
+```
