@@ -9,6 +9,8 @@ console.log(name);
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/1Task.js)
 
+---
+
 - Get name, country and jod using destructuring
 
 ```
@@ -20,6 +22,8 @@ console.log(job); // "Developer"
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/getNameCountryJob.js)
 
+---
+
 - Concatenate the two arrays
 
 ```
@@ -29,6 +33,8 @@ const arr3; // [1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/ConcatArr.js)
+
+---
 
 - How to take arguments in sum function?
 
@@ -44,6 +50,8 @@ sum(1, 2, 3); // prints 6
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/takeArguments.js)
 
+---
+
 - How to pass arguments in sum function?
 
 ```
@@ -56,6 +64,8 @@ console.log(sum()); // prints 6
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/passArguments.js)
 
+---
+
 - Swapping Values using the Destructuring Assignment
 
 ```
@@ -67,6 +77,8 @@ console.log(b); //3
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/swapValues.js)
 
+---
+
 - Upvotes and downvotes
 
   - Given an object containing counts of both upvotes and downvotes, return what vote count should be displayed. This is calculated by subtracting the number of downvotes from upvotes.
@@ -76,6 +88,8 @@ console.log(b); //3
     ```
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/getVoteCount.js)
+
+---
 
 - 50, 30, 20
   - The 50-30-20 strategy is a simple way to budget, which involves spending 50% of after-tax income on needs, 30% after tax income on wants, and 20% after-tax income on savings or paying off debt.
@@ -87,6 +101,8 @@ console.log(b); //3
   ```
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/afterTaxIncome.js)
+
+---
 
 - Create a one-liner function
 
@@ -110,6 +126,8 @@ console.log(b); //3
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/cityFacts.js)
 
+---
+
 - Create a function that takes infinite count of elements, operator and prints their sum. If there's no operator, then default should be +
 
 ```
@@ -120,6 +138,8 @@ printSum("**", 2, 3, 2); // 64
 ```
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/sumPrint.js)
+
+---
 
 - Write `object.keys`, `object.values` and `object.entries` methods using `for..in`
 
