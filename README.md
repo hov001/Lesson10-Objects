@@ -155,3 +155,5 @@ mapping(["p", "s"]) ➞ { "p": "P", "s": "S" }
 mapping(["a", "b", "c"]) ➞ { "a": "A", "b": "B", "c": "C" }
 mapping(["a", "v", "y", "z"]) ➞ { "a": "A", "v": "V", "y": "Y", "z": "Z" }
 ```
+
+###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/letterVersionOptional.js)
