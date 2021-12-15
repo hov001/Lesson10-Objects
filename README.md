@@ -120,3 +120,7 @@ printSum("**", 2, 3, 2); // 64
 ```
 
 ###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/sumPrint.js)
+
+- Write `object.keys`, `object.values` and `object.entries` methods using `for..in`
+
+###### for watching task solution click the [link](https://github.com/Gayane25/Lesson10-Objects/blob/master/getTheKey.js)
