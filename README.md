@@ -13,7 +13,7 @@ console.log(name);
 
 - Get name, country and jod using destructuring
 
-```
+```js
 let person = { name: "Sarah", country: "Armenia", job: "Developer" };
 console.log(name); // "Sarah"
 console.log(country); // "Nigeria"
